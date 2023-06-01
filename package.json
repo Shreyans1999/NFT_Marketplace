@@ -8,7 +8,11 @@
   },
   "author": "Shreyans Saklecha",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
     "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3"
   }
 }
